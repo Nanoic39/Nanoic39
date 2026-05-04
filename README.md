@@ -18,7 +18,7 @@
 ## 🚀 关于我
 
 - 🎯 求职方向：Java 后台开发（实习 / 校招）
-- 🌱 当前重点：Spring Boot、MyBatis、MySQL、Redis、JWT 鉴权
+- 🌱 当前重点：Spring Cloud、CI/CD、Docker
 - 🛠️ 关注方向：接口设计、权限模型、性能优化、可观测性（日志/链路追踪）
 - 📌 目标：持续沉淀高质量后端项目，提升工程实战能力
 
@@ -46,29 +46,28 @@
 
 ## 📂 代表项目
 
-### 1) YunaNexus 微服务综合管理平台
-- 关键词：`OAuth2` `JWT(RSA)` `网关鉴权` `日志链路` `Docker部署`
-- 项目亮点：
-  - 落地统一鉴权流程，完善接口安全与参数校验
-  - 优化日志链路与可观测性，支持问题快速定位
-  - 完成服务部署与回滚方案，提升发布稳定性
-- 仓库链接：[<YunaNexusCore>](https://github.com/Nanoic39/YunaNexusCore)
+### 1) YunaNexus 生态
+- 关键词：`OAuth2` `RSA` `网关鉴权` `日志链路` `CI/CD`
+- 仓库链接：[<YunaNexusCore>](https://github.com/Nanoic39/YunaNexus)  ( 🚧 重构中... )
 
 ---
 
 ## 🏆 获奖经历（节选）
 
-- 第四届中国高校计算机大赛·智能交互创新赛 全国总决赛优胜奖
-- 中国大学生计算机设计大赛软件应用与开发赛道 全国总决赛二等奖
-- 江苏省大学生计算机设计大赛 三等奖
-- 蓝桥杯 Web 应用开发 大学组省赛二等奖
+- “第四届中国高校计算机大赛-智能交互创新赛” 全国总决赛优胜
+- “新大陆杯” 2025 年江苏省大学生计算机设计大赛 三等奖
+- “十六届蓝桥杯 Web 应用开发” 大学组省级一等奖
+- “十五届蓝桥杯 Web 应用开发” 大学组省级二等奖
+- “2023 年第五届全国高校计算机能力挑战赛” 华东赛区本研组 三等奖
 
 ---
 
 ## 📈 GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nanoic39&show_icons=true&theme=default&locale=cn" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Nanoic39&custom_title=My%20activity%20Graph&hide_border=false" />
+  <br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nanoic39&show_icons=true&theme=default&locale=cn" /> 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanoic39&layout=compact&locale=cn" />
 </p>
 
@@ -81,6 +80,7 @@
 ## 📫 联系我
 
 - 邮箱：nanoic39@gmail.com
-- GitHub：https://github.com/Nanoic39
+- GitHub：[https://github.com/Nanoic39](https://github.com/Nanoic39)
+- Telegram：[https://t.me/Nanoic39](https://t.me/Nanoic39)
 
 > 持续更新中，欢迎交流 Java 后端开发、项目实践与技术成长。
