@@ -66,9 +66,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Nanoic39&custom_title=My%20activity%20Graph&hide_border=false" />
-  <br>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nanoic39&show_icons=true&theme=default&locale=cn" /> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanoic39&layout=compact&locale=cn" />
 </p>
 
 <p align="center">
