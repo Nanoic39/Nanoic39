@@ -78,6 +78,5 @@
 
 - 邮箱：nanoic39@gmail.com
 - GitHub：[https://github.com/Nanoic39](https://github.com/Nanoic39)
-- Telegram：[https://t.me/Nanoic39](https://t.me/Nanoic39)
 
 > 持续更新中，欢迎交流 Java 后端开发、项目实践与技术成长。
